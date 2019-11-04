@@ -1187,9 +1187,9 @@
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
 "@pobch-ry/cccomponents@^1.0.0":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@pobch-ry/cccomponents/-/cccomponents-1.0.4.tgz#2ad478907397fafaccccd9b38cffe8d16d946584"
-  integrity sha512-p8euIlJLoC4yEW268EawExhfxjPVADYW6fGNkjkvdnz6CW9CFALDtCXsuzWITjZ2xdbxxO6kyn5c2dVTO7ZPcA==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@pobch-ry/cccomponents/-/cccomponents-1.0.6.tgz#6190eeaf9451a0c36a4bec2a566304a8ae991063"
+  integrity sha512-San2mYMP2IPq+rRn4eLH3sEdYcGlNjXNeKmdX+VmvJOm4nhmfCHY0fYKFKjFfxceNhogzdWigpuEaLKDzzPrQg==
   dependencies:
     react "^16.11.0"
     react-dom "^16.11.0"
